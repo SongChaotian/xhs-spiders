@@ -145,11 +145,11 @@
 
 如果您有任何问题或需求，欢迎联系作者：
 
-- 微信：<img width="200" alt="image" src="https://github.com/SongChaotian/xhs-spider/assert/qr-code.jpg">
+- 微信：<img width="200" alt="image" src="https://github.com/SongChaotian/xhs-spiders/blob/main/assert/qr-code.jpg">
 
 - 邮箱：[2653325469@qq.com](mailto:2653325469@qq.com)
 
-在联系作者之前，建议先查阅我们的[常见问题解答](https://github.com/SongChaotian/xhs-spider/assert/faq.md)，可能会为您节省宝贵的时间。
+在联系作者之前，建议先查阅我们的[常见问题解答](https://github.com/SongChaotian/xhs-spiders/blob/main/assert/faq.md)，可能会为您节省宝贵的时间。
 
 
 
